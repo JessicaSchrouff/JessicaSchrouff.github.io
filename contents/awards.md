@@ -1,13 +1,9 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Award for exceptional contributions to diversity, equity and inclusion (Google UK), 2024
+- Award for excellence in leadership (Google Research), 2022.
+- Award for exceptional contributions to diversity, equity and inclusion (Google Research), 2022.
+- Award for an exceptional contribution to site culture (Google UK), 2020, 2023.
+- Marie Sklodowska-Curie Actions global fellowship (European Commission), 2015.
+- Belgian American Educational Foundation (BAEF) fellow, 2013.
+- Award from the Medical Rotary Foundation of Liege for a Translational Research Project (€15,000), 2013.
+- F.R.I.A – National Scientific Research Funds (F.N.R.S. - Belgium) PhD fellowship, 2009.
+- Erasmus internship fellowship, 2009.
