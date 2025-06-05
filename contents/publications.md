@@ -18,4 +18,4 @@
 
 - <strong>Embedding Anatomical or Functional Knowledge in Whole-Brain Multiple Kernel Learning Models</strong>.<ins> J. Schrouff</ins>, J.M. Monteiro, L. Portugal, M.J. Rosa, C. Phillips, J. Mourão-Miranda. 2018. Neuroinformatics (16), 117-143. [[Paper]](https://link.springer.com/article/10.1007/s12021-017-9347-8)
 
-- <strong>PRoNTo: pattern recognition for neuroimaging toolbox</strong>. <ins>J. Schrouff</ins>, M.J. Rosa, J.M. Rondina, A.F. Marquand, C. Chu, J. Ashburner, C. Phillips, J. Richiardi, J. Mourão-Miranda. 2013. Neuroinformatics (11), 319-337. [[Paper]](https://link.springer.com/article/10.1007/s12021-013-9178-1)
+- <strong>PRoNTo: pattern recognition for neuroimaging toolbox</strong>. <ins>J. Schrouff</ins>, M.J. Rosa, J.M. Rondina, A.F. Marquand, C. Chu, J. Ashburner, C. Phillips, J. Richiardi, J. Mourão-Miranda. 2013. Neuroinformatics (11), 319-337. [[Paper]](https://link.springer.com/article/10.1007/s12021-013-9178-1) [[PRoNTo toolbox]](http://www.mlnl.cs.ucl.ac.uk/pronto/)
